@@ -35,11 +35,9 @@ driver_ratings
 customer_ratings
 <br>
 Purpose:  
-<br>
 This analysis aims to optimize revenue, reduce cancellations, and enhance customer experience for OLA in July 2024.”
 <br>
 Process: 
-<br>
 Cleaned and processed data from multiple sources, primarily using "Excel" for data cleaning.
 <br>
 Applied "SQL queries" for data manipulation and visualized trends using "Power BI".
@@ -56,9 +54,7 @@ with an average of 3.32K bookings per day.
 <br>
 The daily bookings deviate by Standard Deviation 69.19 from the mean of 3323.35 suggesting that the bookings are fairly consistent on a daily basis with moderate 
 <br>
-variation 
-<br>
-around the average.
+variation around the average.
 <br>
 Prime Sedan, E-bike, and Auto generated 43.70% of total revenue, indicating key areas for targeted marketing.
 <br>
