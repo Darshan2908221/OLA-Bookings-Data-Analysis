@@ -34,10 +34,11 @@ driver_ratings
 <br>
 customer_ratings
 <br>
+<br>
 Purpose:  
 This analysis aims to optimize revenue, reduce cancellations, and enhance customer experience for OLA in July 2024.”
 <br>
-
+<br>
 Process: 
 Cleaned and processed data from multiple sources, primarily using "Excel" for data cleaning.
 <br>
@@ -51,7 +52,6 @@ Achieved a revenue of ₹35.8M with a 62.09% booking confirmation rate.
 Faced a 37.91% cancellation rate, resulting in a ₹21.45M loss of money value.
 <br>
 Peaked booking on July 30 (3.43K) as a highest bookings in a day in July and July 31st(3.07K) provided the lowest bookings of July month  
-<br>
 with an average of 3.32K bookings per day. 
 <br>
 The daily bookings deviate by Standard Deviation 69.19 from the mean of 3323.35 suggesting that the bookings are fairly consistent on a daily basis with moderate 
