@@ -37,10 +37,12 @@ customer_ratings
 Purpose:  
 This analysis aims to optimize revenue, reduce cancellations, and enhance customer experience for OLA in July 2024.”
 <br>
+
 Process: 
 Cleaned and processed data from multiple sources, primarily using "Excel" for data cleaning.
 <br>
 Applied "SQL queries" for data manipulation and visualized trends using "Power BI".
+<br> 
 <br>
 📊 Key Highlights:
 <br>
@@ -60,6 +62,7 @@ Prime Sedan, E-bike, and Auto generated 43.70% of total revenue, indicating key 
 <br>
 Cash remains the top transaction method (₹19.3M), followed by UPI (₹14.2M).
 <br>
+<br>
 ❌ Cancellation Analysis:
 <br>
 Out of 103.02K bookings, 39.06K were cancelled.
@@ -70,6 +73,7 @@ Driver Cancellations: 18.44K cancellations.
 <br>
 Customer Cancellations: 10.51K cancellations.
 <br>
+<br>
 🔍 Top Reasons for Cancellations:
 <br>
 Conflict between Driver and Customer: 14.92K cancellations.
@@ -79,6 +83,7 @@ Vehicle Technical Issues: 9.63K cancellations.
 Customer Change of Plans: 3.09K cancellations.
 <br>
 Passenger Limit Exceeded: 2.83K cancellations.
+<br>
 <br>
 💡 Actionable Insights:
 <br>
